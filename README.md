@@ -1,11 +1,16 @@
 <div id="top"></div>
 
 
+
+
+
+
 <h3 align="center">DiscMember</h3>
   <p align="center">
     PoC OSINT Discord user and guild information harvester 
     <br />
     <br />
+    <img src="https://user-images.githubusercontent.com/102427829/166720684-2e7664b0-735e-48bb-b5a4-044de8d01896.png">
     <br />
     ·
     <a href="https://github.com/contusionglory/discmember/issues">Report Bug</a>
@@ -15,6 +20,9 @@
     <a href="https://github.com/contusionglory/discmember/pulls">Make a pull requests</a>
   </p>
 </div>
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/contusionglory/discmember?style=flat-square" </a>
